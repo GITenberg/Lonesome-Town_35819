@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '37917'
     url: http://www.gutenberg.org/2009/agents/37917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35819#Lonesome-Town
 gutenberg_issued: '2011-04-10'
 gutenberg_type: Text
 identifiers:
